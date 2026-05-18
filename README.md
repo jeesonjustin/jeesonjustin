@@ -10,14 +10,6 @@ I enjoy combining design and development to create impactful digital solutions.
 
 ## Featured Projects
 
-### 🔹 AetherMap – Drone Flying Zone Tracker & Registration Portal
-
-A full-stack Django-based drone registration and flight approval platform with interactive zone tracking and role-based access.
-
-🔗 https://github.com/jeesonjustin/AetherMap-Drone-Registration
-
----
-
 ### 🔹 AQI Prediction System
 
 Machine Learning based AQI prediction dashboard using XGBoost and SHAP explainability with real-time AQI monitoring.
@@ -26,11 +18,11 @@ Machine Learning based AQI prediction dashboard using XGBoost and SHAP explainab
 
 ---
 
-### 🔹 Canvart – Art Selling Website
+### 🔹 AetherMap – Drone Flying Zone Tracker & Registration Portal
 
-Frontend art-selling website developed using HTML, CSS, Bootstrap, and JavaScript.
+A full-stack Django-based drone registration and flight approval platform with interactive zone tracking and role-based access.
 
-🔗 https://github.com/jeesonjustin/Canvart-Artselling-Website
+🔗 https://github.com/jeesonjustin/AetherMap-Drone-Registration
 
 ---
 
@@ -39,6 +31,14 @@ Frontend art-selling website developed using HTML, CSS, Bootstrap, and JavaScrip
 Modern travel booking mobile application UI/UX designed completely in Figma.
 
 🔗 https://github.com/jeesonjustin/Travel-Booking-App-UIUX
+
+---
+
+### 🔹 Canvart – Art Selling Website
+
+Frontend art-selling website developed using HTML, CSS, Bootstrap, and JavaScript.
+
+🔗 https://github.com/jeesonjustin/Canvart-Artselling-Website
 
 ---
 
@@ -61,8 +61,8 @@ Modern travel booking mobile application UI/UX designed completely in Figma.
 
 ## Connect With Me
 
-* GitHub: https://github.com/jeesonjustin
-* LinkedIn: Add your LinkedIn profile link here
+* GitHub: [GitHub](https://github.com/jeesonjustin)
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/jeesonjustin/)
 
 ---
 
