@@ -1,12 +1,38 @@
 # Hi, I'm Jeeson Justin
 
-### MCA Student | Python & Django Developer | UI/UX Designer | ML Enthusiast
+### MCA Graduate | Aspiring Frontend Developer | Python & Django Developer | UI/UX Designer | ML Enthusiast
 
 Passionate about building user-friendly web applications, AI-powered systems, and modern UI/UX experiences.
 
 I enjoy combining design and development to create impactful digital solutions.
 
 ---
+
+## Currently Learning
+
+I am currently undergoing a 6-month Full Stack Development Internship, focusing on modern frontend and backend technologies used in industry.
+
+### Frontend
+- HTML
+- Javascript
+- Angular 20
+- TypeScript
+- Tailwind CSS
+- Angular Signals
+- RxJS
+
+### Backend
+- PHP 8
+- Laravel 12
+- MySQL / MariaDB
+- Laravel Sanctum
+- Stancl Tenancy
+- Laratrust
+- REST API Development
+
+## Current Goal
+
+Building strong frontend development skills with Angular while gaining practical experience in full-stack web application development.
 
 ## Featured Projects
 
