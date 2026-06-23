@@ -1,6 +1,6 @@
 # Hi, I'm Jeeson Justin
 
-### MCA Graduate | Aspiring Frontend Developer | Python & Django Developer | UI/UX Designer | ML Enthusiast
+### MCA Graduate | Aspiring Frontend Developer | UI/UX Designer | Python & Django Developer | ML Enthusiast
 
 Passionate about building user-friendly web applications, AI-powered systems, and modern UI/UX experiences.
 
