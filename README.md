@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="Assets/Banner/github-profile-banner.png" alt="Jeeson Justin Banner" width="100%">
+  <img src="Assets/Banner/github-profilebanner.png" alt="Jeeson Justin Banner" width="100%">
 </p>
+
+## About
+
+MCA Graduate passionate about UI/UX Design, Frontend Development, and Full Stack Web Development. I enjoy building user-friendly digital experiences and developing practical software solutions through continuous learning, internships, and real-world projects.
 
 ## Currently Learning
 
